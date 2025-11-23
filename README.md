@@ -27,8 +27,12 @@ This project goes beyond a simple clone; it includes advanced features like a lo
 ### 🌍 Localization
 * **Multi-Language Support:** Fully localized in **English** (Default) and **Turkish**.
 
-### 🕵️‍♂️ Secrets
-* **X-Ray Mode:** A developer cheat code to see through the tiles (see Controls).
+## 🎮 Konami Cheat Code
+
+This developer cheat allows you to see through the board (X-Ray Mode).
+
+**Combination:**
+`UP` ➜ `UP` ➜ `DOWN` ➜ `RIGHT` ➜ `LEFT`
 
 ## 🛠️ Installation & Usage
 
